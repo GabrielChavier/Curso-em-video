@@ -1,1 +1,0 @@
-frase.count('o',0,13)
